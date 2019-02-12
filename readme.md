@@ -2,7 +2,7 @@ In my testing of Wanchain I may or may not found a bug where a contract that bre
 
 Here are the details of how I managed to do this. 
 
-`index.html` contains a simple script that connects to Wanchain node and deployserror a new contract using web3. 
+`index.html` contains a simple script that connects to Wanchain node and deploys a new contract using web3. 
 
 When running I get this error:
 
